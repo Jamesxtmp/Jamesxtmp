@@ -1,3 +1,3 @@
 📖  Currently studying,
-Front End Developer
+Front End Developer,
 JS, React, Vue, Svelte, Java
